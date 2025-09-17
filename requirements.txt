@@ -3,4 +3,5 @@ mediapipe
 deepface
 onnxruntime
 streamlit
+tf-keras
 
